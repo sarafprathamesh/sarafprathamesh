@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software Technology
 - 🌱 I’m currently learning PG-DAC in IACSD
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me
-           [<img width="60" height="20" src="https://github.com/sarafprathamesh/Prathamesh/blob/main/pngfind.com-linkedin-logo-png-597768.png">]      (https://www.linkedin.com/in/prathamesh-saraf-46681b177/)
+- 📫 How to reach me <br>
+[<img width="60" height="20" src="https://github.com/sarafprathamesh/Prathamesh/blob/main/pngfind.com-linkedin-logo-png-597768.png">](https://www.linkedin.com/in/prathamesh-saraf-46681b177/)
 
 <!---
 sarafprathamesh/sarafprathamesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
