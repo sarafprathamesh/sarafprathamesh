@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PG-DAC in IACSD
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me <br> <br>
-- 
 [<img width="80" height="25" src="https://github.com/sarafprathamesh/Prathamesh/blob/main/pngfind.com-linkedin-logo-png-597768.png">](https://www.linkedin.com/in/prathamesh-saraf-46681b177/)
 
 <!---
