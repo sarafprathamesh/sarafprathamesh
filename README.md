@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarafprathamesh
 - 👀 I’m interested in Software Technology
-- 🌱 I’m currently learning  PG-DAC in IACSD 
+- 🌱 I have completed Post Graduation Diploma in Advance Computing (CDAC Certified) 
 - 💞️ I’m looking to collaborate on problem solving
 - 📫 How to reach me 
 
